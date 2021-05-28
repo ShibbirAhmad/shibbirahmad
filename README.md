@@ -30,10 +30,14 @@ Here are some ideas to get you started:
 - <a target="_blank" href="https://mohasagor.com">mohasagor.com</a> 
 - <a target="_blank"  href="https://sufilifestyle.com">sufilifestyle.com</a> 
 - <a target="_blank"  href="http://chahidaeshop.com">chahidaeshop.com</a> 
+- <a target="_blank"  href="http://madinafashion.com.bd">madinafashion.com.bd</a> 
+-  <a target="_blank"  href="http://ecourierbd.com">ecourierbd.com</a> 
+-  <a target="_blank"  href="http://shopolox.com">shopolox.com</a> 
 -  <a target="_blank"  href="http://bondhonsociety.com">bondhonsociety.com</a> 
 -  <a target="_blank"  href="http://talibsinstitute.com">talibsinstitute.com</a>   
 -  <a target="_blank"  href="http://dumketu.com">dumketu.com</a> 
 -  <a target="_blank"  href="http://peon.com.bd">peon.com.bd</a>  
+-  <a target="_blank"  href="http://shopnerhat.com.bd">shopnerhat.com</a>  
 
 
 <div class="text-center">
