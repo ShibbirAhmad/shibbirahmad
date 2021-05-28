@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div class="text-center">
-<h1 align="center">Awesome GitHub Profile README </h1>
+  
+<h2> achievement as a web developer </h2>
 
-
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+<img alt="Awesome GitHub Profile Readme" src="assets/IMG_20210523_004348_118.jpg"> </img>
 
 
 </div>
