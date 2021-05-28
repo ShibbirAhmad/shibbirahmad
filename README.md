@@ -61,9 +61,13 @@ Always I am student of Software Engineering:
 
 
 <br>
+<br>
+<br>
+
 <div class="text-center">
   
 <h2> Achievement role web developer </h2>
+ <br>
 
 <img alt="Awesome GitHub Profile Readme" src="assets/IMG_20210523_004348_118.jpg"> </img>
 
