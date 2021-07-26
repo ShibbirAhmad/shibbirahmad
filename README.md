@@ -76,9 +76,10 @@ Always I am student of Software Engineering:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibbirahmad&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="shibbirahmad" width="500px" style="margin-left: 20px;" />
   
   
-  <br/>
+  <br>
+  <br>
 
-<img alt="Awesome GitHub Profile Readme" width="400px" height="500px" src="assets/IMG_20210523_004348_118.jpg"> </img>
+<img alt="Awesome GitHub Profile Readme" width="500px" height="600px" src="assets/IMG_20210523_004348_118.jpg"> </img>
 
 
 
