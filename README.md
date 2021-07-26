@@ -70,8 +70,18 @@ Always I am student of Software Engineering:
   
 <h2> Achievement role web developer </h2>
  <br>
+  
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibbirahmad&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="shibbirahmad" width="550px" />
 
-<img alt="Awesome GitHub Profile Readme" src="assets/IMG_20210523_004348_118.jpg"> </img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibbirahmad&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="shibbirahmad" width="500px" style="margin-left: 20px;" />
+  
+  
+  <br/>
+
+<img alt="Awesome GitHub Profile Readme" width="400px" height="500px" src="assets/IMG_20210523_004348_118.jpg"> </img>
+
+
+
 
 
 </div>
