@@ -25,7 +25,8 @@ Always I am student of Software Engineering:
 
 ### Project Completed & Contributed 
 - <a target="_blank" href="https://mohasagor.com">mohasagor.com</a> 
--  <a target="_blank" href="https://touchtrade.com.bd">touchtrade.com.bd</a> 
+- <a target="_blank" href="https://smartdealbd.com">smartdealbd.com</a> 
+- <a target="_blank" href="https://touchtrade.com.bd">touchtrade.com.bd</a> 
 - <a target="_blank"  href="https://sufilifestyle.com">sufilifestyle.com</a> 
 - <a target="_blank"  href="http://chahidaeshop.com">chahidaeshop.com</a> 
 - <a target="_blank"  href="http://mohadesh.com">mohadesh.com</a> 
