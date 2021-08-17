@@ -8,7 +8,6 @@ Always I am student of Software Engineering:
 - 🔭 I’m currently working on <a href="https://mohasagor.com">MIT</a> 
 - 🌱 I’m currently learning <a href="https://w3school.com">Reactjs</a> 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for free life
 - ⚡ Fun fact: I love to Explore the world
 
 
