@@ -21,7 +21,7 @@ Always I am student of Software Engineering:
 
 ###  Hire me on fiverr :
 - <a href="https://www.fiverr.com/coder_shibbir">Fiverr</a> 
-
+-<a href="https://app.daily.dev/devshibbir"><img src="https://api.daily.dev/devcards/525a6f369f044c24990197b2b3b42afb.png?r=u2o" width="400" alt="Shibbir Ahmad's Dev Card"/></a>
 ### Project Completed & Contributed 
 - <a target="_blank" href="https://mohasagor.com">mohasagor.com</a> 
 - <a target="_blank" href="https://quicknpay.com">quicknpay.com</a> 
