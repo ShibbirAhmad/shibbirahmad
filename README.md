@@ -5,23 +5,21 @@
 
 Always I am student of Software Engineering:
 
-- 🔭 I’m currently working on <a href="https://mohasagor.com">MIT</a> 
-- 🌱 I’m currently learning <a href="https://w3school.com">Reactjs</a> 
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on <a href="https://mit.mohasagor.com">MIT</a> 
 - ⚡ Fun fact: I love to Explore the world
-
 
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shibbir-ahmad-91a855167/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/programmershibbir/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/devshibbir/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://twitter.com/Shibbir71910444)
 [![Twiiter](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14231300/shibbir-ahmad)
 
 
 ###  Hire me on fiverr :
 - <a href="https://www.fiverr.com/coder_shibbir">Fiverr</a> 
--<a href="https://app.daily.dev/devshibbir"><img src="https://api.daily.dev/devcards/525a6f369f044c24990197b2b3b42afb.png?r=u2o" width="400" alt="Shibbir Ahmad's Dev Card"/></a>
+
+
 ### Project Completed & Contributed 
 - <a target="_blank" href="https://mohasagor.com">mohasagor.com</a> 
 - <a target="_blank" href="https://quicknpay.com">quicknpay.com</a> 
@@ -75,13 +73,14 @@ Always I am student of Software Engineering:
   
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibbirahmad&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="shibbirahmad" width="550px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibbirahmad&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="shibbirahmad" width="500px" style="margin-left: 20px;" />
-  
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibbirahmad&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="shibbirahmad" width="550px" style="margin-left: 20px;" />
+  <br>
+  <br>
+  <a  href="https://app.daily.dev/devshibbir"><img src="https://api.daily.dev/devcards/525a6f369f044c24990197b2b3b42afb.png?r=u2o" style="margin-left:400px;"  width="400" alt="Shibbir Ahmad's Dev Card"/></a>
   <br>
   <br>
 
-<img alt="Awesome GitHub Profile Readme" width="500px" height="600px" src="assets/IMG_20210523_004348_118.jpg"> </img>
+<img alt="Awesome GitHub Profile Readme" width="400px" height="500px" src="assets/IMG_20210523_004348_118.jpg"> </img>
 
 
 
