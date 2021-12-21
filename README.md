@@ -1,13 +1,12 @@
 ### Hi I am Shibbir Ahmad 👋
-
-
 **console.log()**  ✨ Web Programmer ✨ 
-
 Always I am student of Software Engineering:
 
 - 🔭 I’m currently working on <a href="https://mit.mohasagor.com">MIT</a> 
-- ⚡ Fun fact: I love to Explore the world
+  <br>
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibbirahmad&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="shibbirahmad" width="550px" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibbirahmad&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="shibbirahmad" width="550px"  />
   <br>
   <br>
   <a  href="https://app.daily.dev/devshibbir"><img src="https://api.daily.dev/devcards/525a6f369f044c24990197b2b3b42afb.png?r=u2o" style="margin-left:400px;"  width="400" alt="Shibbir Ahmad's Dev Card"/></a>
@@ -79,12 +78,6 @@ Always I am student of Software Engineering:
   
 <h2> Achievement role web developer </h2>
  <br>
-  
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibbirahmad&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="shibbirahmad" width="550px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibbirahmad&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="shibbirahmad" width="550px" style="margin-left: 20px;" />
-
-  <br>
   <br>
 
 <img alt="Awesome GitHub Profile Readme" width="400px" height="500px" src="assets/IMG_20210523_004348_118.jpg"> </img>
