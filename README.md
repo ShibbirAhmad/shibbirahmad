@@ -1,17 +1,9 @@
 ### Hi I am Shibbir Ahmad 👋
 **console.log()**  ✨ Web Programmer ✨ 
 Always I am student of Software Engineering:
-
 - 🔭 I’m currently working on <a href="https://mit.mohasagor.com">MIT</a> 
   <br>
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibbirahmad&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="shibbirahmad" width="550px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibbirahmad&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="shibbirahmad" width="550px"  />
-  <br>
-  <br>
-  <a  href="https://app.daily.dev/devshibbir"><img src="https://api.daily.dev/devcards/525a6f369f044c24990197b2b3b42afb.png?r=u2o" style="margin-left:400px;"  width="400" alt="Shibbir Ahmad's Dev Card"/></a>
-
-### Languages and Tools:
+  ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -30,6 +22,17 @@ Always I am student of Software Engineering:
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+  <br>
+  <br>
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibbirahmad&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="shibbirahmad" width="550px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibbirahmad&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="shibbirahmad" width="550px"  />
+  <br>
+  <br>
+  <a  href="https://app.daily.dev/devshibbir"><img src="https://api.daily.dev/devcards/525a6f369f044c24990197b2b3b42afb.png?r=u2o" style="margin-left:400px;"  width="400" alt="Shibbir Ahmad's Dev Card"/></a>
 
 
 
@@ -64,10 +67,6 @@ Always I am student of Software Engineering:
 -  <a target="_blank"  href="http://shopnerhat.com.bd">shopnerhat.com</a>  
 
 
-
-
-
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
 <br>
