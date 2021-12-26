@@ -3,7 +3,7 @@
 Always I am student of Software Engineering:
 - 🔭 I’m currently working at <a href="https://mit.mohasagor.com">MIT</a> 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+SHIBBIR.;I+AM+A+WEB+PROGRAMMER.;3+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+SHIBBIR AHMAD.;I+AM+A+WEB+PROGRAMMER.;3+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 
   <br>
   ### Languages and Tools:
