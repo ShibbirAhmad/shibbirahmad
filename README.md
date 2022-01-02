@@ -59,13 +59,8 @@
 -  <a target="_blank"  href="http://shopolox.com">shopolox.com</a> 
 -  <a target="_blank"  href="http://bondhonsociety.com">bondhonsociety.com</a> 
 -  <a target="_blank"  href="http://talibsinstitute.com">talibsinstitute.com</a>   
-<br>
-<br>
-
 <div class="text-center">
-  
 <h2> Achievement role web developer </h2>
- <br>
   <br>
 <img alt="Awesome GitHub Profile Readme" width="400px" height="500px" src="assets/employee_of_the_year.jpg"> </img>
  <br>
