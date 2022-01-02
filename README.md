@@ -51,17 +51,14 @@
 - <a target="_blank"  href="http://fairshop.com.bd">fairshop.com.bd</a> 
 - <a target="_blank"  href="https://sufiglobal.com">sufiglobal.com</a> 
 - <a target="_blank" href="https://zeonspark.com">zeonspark.com</a> 
-- <a target="_blank" href="https://smartdealbd.com">smartdealbd.com</a> 
-- <a target="_blank" href="https://touchtrade.com.bd">touchtrade.com.bd</a> 
+- <a target="_blank" href="https://dakhil2004.org">dakhil2004.org</a> 
+- <a target="_blank" href="https://mit.mohasagor.com">mit.mohasagor.com</a> 
 - <a target="_blank"  href="http://chahidaeshop.com">chahidaeshop.com</a> 
 - <a target="_blank"  href="http://mohadesh.com">mohadesh.com</a> 
 - <a target="_blank"  href="http://madinafashion.com.bd">madinafashion.com.bd</a> 
 -  <a target="_blank"  href="http://shopolox.com">shopolox.com</a> 
 -  <a target="_blank"  href="http://bondhonsociety.com">bondhonsociety.com</a> 
 -  <a target="_blank"  href="http://talibsinstitute.com">talibsinstitute.com</a>   
-
-
-<br>
 <br>
 <br>
 
