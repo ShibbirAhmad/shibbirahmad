@@ -48,6 +48,7 @@
 ### Project Completed & Contributed 
 - <a target="_blank" href="https://mohasagor.com">mohasagor.com</a> 
 - <a target="_blank" href="https://quicknpay.com">quicknpay.com</a> 
+- <a target="_blank"  href="http://fairshop.com.bd">fairshop.com.bd</a> 
 - <a target="_blank"  href="https://sufiglobal.com">sufiglobal.com</a> 
 - <a target="_blank" href="https://zeonspark.com">zeonspark.com</a> 
 - <a target="_blank" href="https://smartdealbd.com">smartdealbd.com</a> 
@@ -55,15 +56,9 @@
 - <a target="_blank"  href="http://chahidaeshop.com">chahidaeshop.com</a> 
 - <a target="_blank"  href="http://mohadesh.com">mohadesh.com</a> 
 - <a target="_blank"  href="http://madinafashion.com.bd">madinafashion.com.bd</a> 
--  <a target="_blank"  href="http://peon.com.bd">peon.com.bd</a> 
 -  <a target="_blank"  href="http://shopolox.com">shopolox.com</a> 
 -  <a target="_blank"  href="http://bondhonsociety.com">bondhonsociety.com</a> 
 -  <a target="_blank"  href="http://talibsinstitute.com">talibsinstitute.com</a>   
--  <a target="_blank"  href="http://dumketu.com">dumketu.com</a> 
--  <a target="_blank"  href="http://peon.com.bd">peon.com.bd</a>  
--  <a target="_blank"  href="http://shopnerhat.com.bd">shopnerhat.com</a>  
-
-
 
 
 <br>
@@ -75,12 +70,10 @@
 <h2> Achievement role web developer </h2>
  <br>
   <br>
-
+<img alt="Awesome GitHub Profile Readme" width="400px" height="500px" src="assets/employee_of_the_year.jpg"> </img>
+ <br>
+ <br>
 <img alt="Awesome GitHub Profile Readme" width="400px" height="500px" src="assets/IMG_20210523_004348_118.jpg"> </img>
-
-
-
-
 
 </div>
 
