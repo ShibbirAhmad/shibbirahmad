@@ -22,17 +22,8 @@
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-  <br>
-  <br>
-  <br>
-<div>
-  <a href="https://github.com/shibbirahmad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shibbirahmad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibbirahmad&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
- ![Snake animation](https://github.com/shibbirahmad/shibbirahmad/blob/output/github-contribution-grid-snake.svg)
 
+ 
   <br>
   <br>
   <a  href="https://app.daily.dev/devshibbir"><img src="https://api.daily.dev/devcards/525a6f369f044c24990197b2b3b42afb.png?r=u2o" style="margin-left:400px;"  width="400" alt="Shibbir Ahmad's Dev Card"/></a>
