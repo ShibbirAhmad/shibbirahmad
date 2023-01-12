@@ -48,16 +48,10 @@
 - <a target="_blank" href="https://mohasagor.com">mohasagor.com</a> 
 - <a target="_blank" href="https://quicknpay.com">quicknpay.com</a> 
 - <a target="_blank"  href="http://fairshop.com.bd">fairshop.com.bd</a> 
-- <a target="_blank"  href="https://sufiglobal.com">sufiglobal.com</a> 
+- <a target="_blank"  href="https://sufi.fashion">sufi.fashion</a> 
 - <a target="_blank" href="https://zeonspark.com">zeonspark.com</a> 
 - <a target="_blank" href="https://dakhil2004.org">dakhil2004.org</a> 
-- <a target="_blank" href="https://mit.mohasagor.com">mit.mohasagor.com</a> 
-- <a target="_blank"  href="http://incentivebd.com">incentivebd.com</a> 
-- <a target="_blank"  href="http://mohadesh.com">mohadesh.com</a> 
-- <a target="_blank"  href="http://madinafashion.com.bd">madinafashion.com.bd</a> 
--  <a target="_blank"  href="http://shopolox.com">shopolox.com</a> 
--  <a target="_blank"  href="http://bondhonsociety.com">bondhonsociety.com</a> 
--  <a target="_blank"  href="http://talibsinstitute.com">talibsinstitute.com</a>  
+-  <a target="_blank"  href="http://prothoma.shop">prothoma.shop</a> 
 
 <div class="text-center">
 <h2> Achievement role web developer </h2>
